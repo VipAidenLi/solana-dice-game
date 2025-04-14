@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/VipAidenLi/solana-dice-game/contracts" // 请根据实际情况修改包路径
 	"github.com/blocto/solana-go-sdk/client"
 	"github.com/blocto/solana-go-sdk/rpc"
 	"github.com/blocto/solana-go-sdk/types"
